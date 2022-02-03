@@ -6,4 +6,4 @@ note: Data has been manipulated to keep trends but not show real values. Second 
 
 ![](https://github.com/WasinHongmanee/Sales-Report/blob/main/dashboard1.png)
 
-![](https://github.com/WasinHongmanee/Sales-Report/blob/main/dashboard2.png)
+![](https://github.com/WasinHongmanee/Sales-Report/blob/main/dashboard3.png)
