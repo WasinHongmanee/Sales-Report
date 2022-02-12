@@ -4,9 +4,11 @@ Using data taken from my family restaurant's POS, I created a dashboard in Power
 
 note: Data has been manipulated to keep trends but not show real values. Second slide which contained employee work hours and food costs have also been taken out.
 
+## [Link To my Portfolio!](https://wasinhongmanee.github.io/Portfolio/) 
+
 ![](https://github.com/WasinHongmanee/Sales-Report/blob/main/dashboard1.png)
 
 ![](https://github.com/WasinHongmanee/Sales-Report/blob/main/dashboard3.png)
 
 
-## [Link To my Portfolio!](https://wasinhongmanee.github.io/Portfolio/)
+
