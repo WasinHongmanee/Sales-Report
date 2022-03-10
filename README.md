@@ -12,4 +12,4 @@ note: Data has been manipulated to keep trends but not show real values. Second 
 
 ![](https://github.com/WasinHongmanee/Sales-Report/blob/main/dashboard3.png)
 
-![](https://github.com/WasinHongmanee/Sales-Report/blob/main/SQL%20follow%20up%20sample.png?raw=true)
+![](https://user-images.githubusercontent.com/24490502/157634267-7c214553-9e06-40f1-9c8a-f74f53248b77.png)
