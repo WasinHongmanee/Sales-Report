@@ -1,6 +1,6 @@
 # Restaurant KPIs Visualized
 
-Using data taken from my family restaurant's POS, I created a dashboard in Power BI to help visualize KPIs and explore data. The KPIs we are concerned with are current and past sales. We are looking for ways to profit money from Doordash sales.
+Using data taken from my family restaurant's POS, I created a dashboard in Power BI to visualize KPIs and explore data. The KPIs we are concerned with are current and past sales. We are looking for ways to profit money from Doordash sales.
 
 note: Data has been manipulated to keep trends but not show real values. Second slide which contained employee work hours and food costs have also been taken out.
 
